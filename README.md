@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Shahad! 👋
 
-<!--
-**ShahadAldossary-cs/ShahadAldossary-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Student | Aspiring Web Developer
+I am a passionate CS student currently looking for a **COOP training opportunity**. I love building web projects and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Skills:
+- **Web Development:** HTML5, CSS3, JavaScript.
+- **Programming Languages:** Java, C++, C#.
+- **Network Tools:** Cisco Packet Tracer.
+- **Scientific Computing:** MATLAB.
+
+---
+
+### 📂 Projects:
+- 🔭 I’m currently working on my web development portfolio.
+- 🌱 I’m currently learning more about Full-Stack development.
+
+---
+
+### 📫 How to reach me:
+- **LinkedIn:** [(https://linkedin.com/in/YourUsername) ](https://www.linkedin.com/in/shahad-aldossary-8a84153b5)
+- **Email:** s.m.aldossaryy@outlook.com
+
+---
